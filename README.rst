@@ -6,6 +6,7 @@ build
 =============
 
 - need makecfg
+- need ncore
 
 ::
   
